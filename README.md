@@ -34,7 +34,3 @@ Because every student name length is different the output will also be different
 ### Language Used
 
 Python
-
-### Author Declaration
-
-This is my original work written by me for the assignment. I did not copy from internet or other students and I did not use AI generated logic.
